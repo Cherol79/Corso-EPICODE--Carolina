@@ -41,7 +41,7 @@ body {
   }
   
 .bkimg{
-    background-image:url(bg-img.png);
+    background-image:url(assets/bg-image.png);
         width: 100%;
         height: 100%;
         color: white;
@@ -67,3 +67,14 @@ body {
     width: 50%;
 
   }
+  .img {
+    width: 420px;
+    height: 379px;
+    object-fit: cover;
+    margin: 1rem;
+    border-radius: 20px;
+    -webkit-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+  }
+  
