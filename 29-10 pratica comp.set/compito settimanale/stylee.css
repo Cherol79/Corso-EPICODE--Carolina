@@ -1,0 +1,64 @@
+header{
+    width: 100%;
+    paddinng left: 20%;
+}
+
+body{
+    color: black;
+    text-align: center;
+    padding-left: 20%;
+
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#Simply_Recipes_Logo_-_2021{
+    width: 20%;
+    margin:auto
+}
+
+nav{
+    color: darkcyan;
+    background-color: beige;
+}
+
+main {
+    width: 50%;
+    text-align:left;
+    margin: auto;
+  }
+ 
+  main img {
+    width: 50%;
+    
+  }
+
+h5{
+    color: lightgrey;
+   align-self: center;
+}
+
+section div {
+    border-left: 1px solid #ffd977;
+    padding-left: 1rem;
+    margin-top: 2rem;
+}
+
+section div span{
+    color: darkred;
+    display: block;
+}
+
+h2{
+    text-align: left;
+}
+
+a{
+    color: darkcyan;
+}
+
+footer p{
+    text-align:left;
+}
