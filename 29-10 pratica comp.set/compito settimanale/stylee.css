@@ -38,6 +38,7 @@ main {
 h5{
     color: lightgrey;
    align-self: center;
+   font-weight: lighter;
 }
 
 section div {
